@@ -1,6 +1,6 @@
 # Trabalho de Entrega Final Android - API
 
-Este projeto disponibiliza uma API para consumo através de um Android Client. 
+Este projeto disponibiliza uma API para consumo através de um [Android Client](https://github.com/fabianotessarolo/9SCJ-AndroidTrabalhoFinalClient) 
 Para este sistema não foi contemplado melhores práricas de segurança, apenas exemplificando um método de login e CRUD.
 
 ## Getting Started
